@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.exe
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.deps.json
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.dll
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.dll
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\refint\csClient_UI.dll
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio 2022\csClient_UI\obj\Debug\net7.0-windows\ref\csClient_UI.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.exe
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.deps.json
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.runtimeconfig.json
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\bin\Debug\net7.0-windows\csClient_UI.pdb
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.csproj.AssemblyReference.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.AssemblyInfoInputs.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.AssemblyInfo.cs
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.csproj.CoreCompileInputs.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\refint\csClient_UI.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.pdb
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\csClient_UI.genruntimeconfig.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient_UI\obj\Debug\net7.0-windows\ref\csClient_UI.dll

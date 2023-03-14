@@ -1,0 +1,15 @@
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\bin\Debug\net7.0\csClient.exe
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\bin\Debug\net7.0\csClient.deps.json
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\bin\Debug\net7.0\csClient.runtimeconfig.json
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\bin\Debug\net7.0\csClient.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\bin\Debug\net7.0\csClient.pdb
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.csproj.AssemblyReference.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.AssemblyInfoInputs.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.AssemblyInfo.cs
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.csproj.CoreCompileInputs.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\refint\csClient.dll
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.pdb
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\csClient.genruntimeconfig.cache
+\\192.168.0.248\homes\admin\GDrive\source\repos\pyChat\csClient\obj\Debug\net7.0\ref\csClient.dll

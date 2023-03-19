@@ -77,7 +77,7 @@ def handle_client(client_socket, client_address):
                     enemy = Enemy(int(enemy_lvl))
 
                     if battle(player, enemy):
-                        client_socket.sendall(f"".encode())
+                        print(f"{username} wins against {enemy.name}")
                     else:
                         client_socket.sendall(
                             f"{username} lost the battle".encode())
@@ -195,16 +195,16 @@ class Player:
             damage *= 2
         enemy.health -= max(damage, 0)
         self.client_socket.sendall(
-            f"{self.name} hits {enemy.name} for {int(damage)}\n".encode())
+            f"{self.name} hits {enemy.name} for {int(damage)} \n".encode())
 
         if enemy.health <= 0:
-            self.client_socket.send(
+            self.client_socket.sendall(
                 f"{self.name} defeated {enemy.name} with {int(self.health)} HP remaining!".encode())
             xp = enemy.level * 10
             self.xp += xp
             user_data[self.name]["xp"] = self.xp
             save_user_data()
-            self.client_socket.send(
+            self.client_socket.sendall(
                 f"{self.name} gained {xp} XP!".encode())
             self.level_up()
 
@@ -222,7 +222,7 @@ class Player:
             attacker.attack_enemy(defender)
             if defender.health <= 0:
                 # Defender has been defeated
-                self.client_socket.send(
+                self.client_socket.sendall(
                     f"{defender.name} has been defeated!".encode())
                 break
 
@@ -231,7 +231,7 @@ class Player:
 
     def allocate_attributes(self, speed_points, intellect_points, luck_points):
         if (speed_points + intellect_points + luck_points) > self.freeAP:
-            self.client_socket.send(
+            self.client_socket.sendall(
                 f"Insufficient free attribute points.".encode())
             return
 
@@ -244,7 +244,7 @@ class Player:
         user_data[self.name]["luck"] = self.luck
         user_data[self.name]["freeAP"] = self.freeAP
         save_user_data()
-        self.client_socket.send(
+        self.client_socket.sendall(
             f"{self.name} allocated {speed_points} points to speed, {intellect_points} points to intellect, and {luck_points} points to luck.".encode())
 
     def get_attributes(self):
@@ -257,7 +257,7 @@ class Player:
         attributes += f"Intellect: {self.intellect}\n"
         attributes += f"Luck: {self.luck}\n"
         attributes += f"Free Attribute Points: {self.freeAP}\n"
-        self.client_socket.send(attributes.encode())
+        self.client_socket.sendall(attributes.encode())
 
 
 class Enemy:
